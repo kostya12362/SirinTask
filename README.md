@@ -1,6 +1,6 @@
 # SirinTask
 ## Installation
-```linux
+```bash
 $ git clone https://github.com/kostya12362/SirinTask.git
 ```linux
 
