@@ -2,7 +2,7 @@
 ## Installation
 ```bash
 $ git clone https://github.com/kostya12362/SirinTask.git
-```linux
+```
 
 The next step is to create a directory in which our folder will be in the environment
 ```linux
