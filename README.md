@@ -1,4 +1,5 @@
 # SirinTask
+Test assignment for the Junior Python Dev position
 ## Installation
 ```bash
 $ git clone https://github.com/kostya12362/SirinTask.git
